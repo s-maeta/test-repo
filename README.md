@@ -1,3 +1,3 @@
-# Archived Repository
+# Empty Repository
 
-このリポジトリは非アクティブです。
+このリポジトリは空です。
